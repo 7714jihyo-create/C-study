@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 강제형변환
 int main() {
 	int a = 7, b = 2;
 	int c;
