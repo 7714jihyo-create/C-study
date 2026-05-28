@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// switch-case 
 int main() {
 	int a = 4;
 	switch (a) {
@@ -13,8 +13,4 @@ int main() {
 		printf("D");
 	}
 	return 0;
-
-
-
-
 }
